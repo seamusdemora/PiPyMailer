@@ -1,6 +1,6 @@
 # PiPyMailer
 
-Function: Notify me by email if my Raspberry Pi experiences a reboot. 
+Function: Notify me by email if my Raspberry Pi experiences a reboot. This function is executed by a "@reboot" entry in the cron file.
 
 Language: Written in Python
 
