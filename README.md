@@ -4,4 +4,6 @@ Function: Notify me by email if my Raspberry Pi experiences a reboot. This funct
 
 Language: Written in Python
 
-Other Resources: Using my Gmail account to forward email to an address that I monitor. 
+Other Resources: 
+
+* Using my Gmail account to forward email to an address that I monitor. There's a [tutorial that covers this](http://naelshiab.com/tutorial-send-email-python/)
