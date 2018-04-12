@@ -7,3 +7,5 @@ Language: Written in Python
 Other Resources: 
 
 * Using my Gmail account to forward email to an address that I monitor. There's a [tutorial that covers this](http://naelshiab.com/tutorial-send-email-python/)
+* The [Pendulum module](https://pendulum.eustace.io/docs/#installation) for date-time manipulation
+
