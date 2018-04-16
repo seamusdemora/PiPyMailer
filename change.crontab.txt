@@ -1,0 +1,4 @@
+# Instructions:
+# add the following line to crontab: `crontab -e`
+
+@reboot /usr/bin/python3 ~/PiPyMailer/testmail2.py > ~/cronjoblog 2>&1

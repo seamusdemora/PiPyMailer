@@ -1,0 +1,10 @@
+# Instructions:
+# add the following exports to ~/.profile
+# insert appropriate values in ""
+
+export PYMAIL_USER_NAME=""
+export PYMAIL_USER_PSWD=""
+export PYMAIL_FWD_ADDR=""
+export PYMAIL_FRM_ADDR=""
+
+
