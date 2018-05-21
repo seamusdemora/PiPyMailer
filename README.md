@@ -10,3 +10,6 @@ Other Resources:
 * An entry in the local bash profile `~/.profile` (see change.profile.txt) 
 * An entry in `crontab` that causes execution of the program during re-boot (see change.crontab.txt).
 
+
+
+Ideas and code from [Nael Shiab's tutorial](http://naelshiab.com/tutorial-send-email-python/) were used in this project.
