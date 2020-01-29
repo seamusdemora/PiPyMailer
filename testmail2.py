@@ -4,6 +4,7 @@ import datetime
 import os
 
 # Create these environment variables in .profile,or another appropriate location
+# See `change.profile.txt` in the repo for more details
 #export PYMAIL_USER_NAME=""
 #export PYMAIL_USER_PSWD=""
 #export PYMAIL_FWD_ADDR=""
