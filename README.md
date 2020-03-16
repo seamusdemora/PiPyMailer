@@ -12,4 +12,4 @@ Other Resources:
 
 
 
-Ideas and code from [Nael Shiab's tutorial](http://naelshiab.com/tutorial-send-email-python/) were used in this project.
+Ideas and code from [Nael Shiab's (now deprecated) tutorial](http://naelshiab.com/tutorial-send-email-python/) were used in this project.
