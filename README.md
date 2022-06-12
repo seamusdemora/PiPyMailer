@@ -1,5 +1,9 @@
 # PiPyMailer
 
+### Notice of Deprecation:
+
+I've not used this in a while for several reasons. I have left it here b/c I thought it may be useful or instructive to others. However, I recently learned that Google no longer allows their mail servers to be used as forwarders - under any circumstances as I understand it. And so, I am marking this as deprecated for now; it will be removed "soon" - in the Newtonian sense of [space-time](https://en.wikipedia.org/wiki/Spacetime). 
+
 Function: Sends email notification when Raspberry Pi experiences a reboot. The Python program is called from a "@reboot" entry in the `crontab` file.
 
 Language: Written in Python
